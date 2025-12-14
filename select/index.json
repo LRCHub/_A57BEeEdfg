@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぐーぐーぐー",
+  "base_artist": "Dannie May",
+  "createdAt": "2025-12-14T07:31:08.641921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぐーぐーぐー",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_ぐーぐーぐー_Dannie_May.txt"
+    }
+  ]
+}
